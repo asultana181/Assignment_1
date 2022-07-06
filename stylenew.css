@@ -180,3 +180,26 @@ body{
     padding-left: 200px;
     padding-top: 20px;
 }
+.newpic{
+    
+    width: 440px;
+    height: 440px;
+    padding-top: 40px;
+    padding-left: 200px;
+    
+}
+.opp2{
+    padding-left: 60px;
+}
+.opp1{
+    font-size: 50px;
+}
+.opposite{
+    display: flex;
+    
+    
+}
+.buttonset2{
+    padding-right: 150px;
+    padding-top: 20px;
+}
