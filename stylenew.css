@@ -99,4 +99,60 @@ body{
 }
 .edit{
     padding-top: 50px;
+
 }
+.donateplan{
+    text-align: center;
+    font-size: 50px;
+}
+.plantwo{
+    text-align: center;
+}
+.newbox{
+    display: flex;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+    
+}
+.newbox1{
+    
+    background-color:rgb(242, 242, 247);
+    margin: 10px;
+    padding: 20px;
+   
+    
+}
+.newbox2{
+    background-color:rgb(241, 221, 224);
+    margin: 10px;
+    padding: 20px;
+}
+.newbox3{
+    background-color:rgb(250, 250, 207);
+    margin: 10px;
+    padding: 20px;
+    
+}
+.foodimg{
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+.shelterimg{
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+.eduimg{
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+.bold2{
+    font-size: 22px;
+}
+.bold1{
+    font-size: 22px;
+}
+.bold3{
+    font-size: 22px;
+}
+
