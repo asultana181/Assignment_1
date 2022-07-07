@@ -203,3 +203,73 @@ body{
     padding-right: 150px;
     padding-top: 20px;
 }
+.last1{
+    text-decoration: none;
+    background-color: tomato;
+    color: #fafafa;
+    border-radius: 0px 5px 5px 0px;
+    
+    padding: 1px 37px 16px 20px;
+    
+    
+}
+.last2{
+    width: 700px;
+    height: 100px;
+    background-color: #fff4bc;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 10px;
+    display: flex ;
+    justify-content: center;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    margin-left: 300px;
+    
+    
+}
+.last3{
+    text-align: center;
+}
+.last4{
+    font-size: 50px;
+}
+
+.footer_text{
+    text-align: center;
+    background-color: black;
+    height: 160px;
+}
+.style_f{
+    padding-top: 40px;
+    font-family:'Lobster';
+    font-size: 30px;
+    color: palevioletred;
+    
+}
+#bye_bye_ms{
+    color: #fafafa;
+    font-size: 12px;
+}
+.box_edit{
+    width: 257px;
+    height: 38px;
+    border: none;
+    background-color: #d9d9d9;
+    border-radius: 5px 0px 0px 5px;
+}
+.second{
+    padding-top: 80px;
+}
+.third{
+    padding-top: 80px;
+}
+.fourth{
+    padding-top: 100px;
+}
+.fifth{
+    padding-top: 100px;
+}
+.sixth{
+    padding-top: 50px;
+}
